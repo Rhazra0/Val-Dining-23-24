@@ -1,0 +1,19 @@
+---
+title: "Dining Plate Data"
+format: pdf
+editor: visual
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(mosaic)
+library(tidyverse)
+options(digits = 4)
+knitr::opts_chunk$set(
+  fig.height=2,
+  tidy=FALSE,     # display code as typed
+  size="small")   # slightly smaller font for code
+library(readxl)
+```
+
