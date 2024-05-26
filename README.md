@@ -15,6 +15,8 @@ The .qmd files contail the wrangling used for tabeleau.
 
 The raw PFG report of ~1800 purchases is in "food_2023.xlsx". 
 
+"SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021 (2).csv" contains the NAICS supply chain conversions per industry code. Here's the link for that https://catalog.data.gov/dataset/supply-chain-greenhouse-gas-emission-factors-v1-2-by-naics-6. 
+
 ## AAS Val Survey Responses
 The AAS Val Satisfaction survey which collected responses from Dec 22' to Feb 23' can be found in the original excel "Copy -Valentine Hall Survey  (Responses) - Form Responses 1.xlsx".
 
